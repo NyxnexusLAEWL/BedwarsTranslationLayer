@@ -1,6 +1,6 @@
 .gradle
 .idea
-build
+/build/
 gradle
 run
 src
@@ -9,4 +9,7 @@ gradle.properties
 gradlew
 gradlew.bat
 settings.gradle
-src-roblox
+src-roblox/node_modules
+src-roblox/src
+src-roblox/*.json
+src-roblox/build/index.js
